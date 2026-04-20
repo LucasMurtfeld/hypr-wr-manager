@@ -33,6 +33,13 @@ cd hypr-wr-manager
 pip install --user .
 hypr-wr-manager
 ```
+### pipx
+```sh
+git clone https://github.com/niva/hypr-wr-manager.git
+cd hypr-wr-manager
+pipx install --user .
+hypr-wr-manager
+```
 
 ### Without installing
 
